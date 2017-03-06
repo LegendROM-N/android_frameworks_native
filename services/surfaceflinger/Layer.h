@@ -671,3 +671,4 @@ private:
 }; // namespace android
 
 #endif // ANDROID_LAYER_H
+#endif
